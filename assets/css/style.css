@@ -1,0 +1,26 @@
+body {
+  background: linear-gradient(rgba(255,255,255,.8), rgba(255,255,255,.8)),url("../img/salud.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+}
+
+h2{
+  color: darkblue;
+}
+
+.bg-img {
+ max-width: 500px;
+}
+
+.text-center{
+  background-color: rgb(44, 102, 168);
+  color: white;
+  margin-bottom: 50px;
+  padding:0.5em;
+}
+
+#footer{
+  background-color: rgb(44, 102, 168);
+  color: white;
+  padding: 0.4em;
+}
